@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
-  <title>sh4des Alliance - Last Z News</title>
+  <title>sh4des Alliance - Last Z Official Intel</title>
   <link>https://github.com/sh4des-alliance</link>
-  <description>Επίσημες ενημερώσεις και στρατηγική για την επιβίωση στην Last Z</description>
-  <language>el</language>
+  <description>Latest survival intel, horde alerts, and strategic updates for Last Z members.</description>
+  <language>en-us</language>
 
   <item>
-    <title>Επείγον: Εντοπίστηκε Zombie Horde στα Νότια</title>
-    <link>https://sh4des-alliance.com/alerts/horde-visual</link>
-    <description>Προσοχή σε όλα τα μέλη των sh4des! Μια μεγάλη ορδή κατευθύνεται προς τον τομέα 7. Οχυρώστε τις πύλες σας και ετοιμάστε τα πυρομαχικά.</description>
-    <pubDate>Sat, 03 Jan 2026 11:30:00 +0200</pubDate>
-    <enclosure url="https://athlometalliki.gr/wp-content/uploads/2020/11/3FN_3748.jpg" length="0" type="image/jpeg" />
+    <title>URGENT: Massive Horde Spotted in Sector 4</title>
+    <link>https://sh4des-alliance.com/alerts/sector4-horde</link>
+    <description>Scouts report a massive level 50 horde moving towards our southern outposts. All sh4des members are ordered to man the walls immediately. Prepare for a long night.</description>
+    <pubDate>Sat, 03 Jan 2026 11:45:00 +0200</pubDate>
+    <enclosure url="https://images.unsplash.com/photo-1534067783941-51c9c23ecefd?q=80&amp;w=1000&amp;auto=format&amp;fit=crop" length="0" type="image/jpeg" />
     <dc:creator>Commander Shadow</dc:creator>
   </item>
 
   <item>
-    <title>Νέα Στρατηγική Raid: Operation Nightfall</title>
-    <link>https://sh4des-alliance.com/strategy/nightfall</link>
-    <description>Απόψε στις 22:00 ξεκινάμε το συντονισμένο raid για συλλογή πόρων. Παρακαλούνται οι Squad Leaders να βρίσκονται στο Discord 15 λεπτά νωρίτερα.</description>
-    <pubDate>Sat, 03 Jan 2026 09:15:00 +0200</pubDate>
-    <enclosure url="https://athlometalliki.gr/wp-content/uploads/2020/11/3FN_3748.jpg" length="0" type="image/jpeg" />
-    <dc:creator>Strategy Officer</dc:creator>
+    <title>New Weapon Drop: Toxic Crossbows Available</title>
+    <link>https://sh4des-alliance.com/armory/toxic-gear</link>
+    <description>The alliance armory has successfully crafted a batch of Toxic Crossbows. Effective against armored undead. Claim yours at the main base armory before supplies run out.</description>
+    <pubDate>Sat, 03 Jan 2026 08:20:00 +0200</pubDate>
+    <enclosure url="https://images.unsplash.com/photo-1601513445506-2ab0d4fb4229?q=80&amp;w=1000&amp;auto=format&amp;fit=crop" length="0" type="image/jpeg" />
+    <dc:creator>Quartermaster</dc:creator>
   </item>
 
   <item>
-    <title>Update Εξοπλισμού: Νέα Sniper Rifles διαθέσιμα</title>
-    <link>https://sh4des-alliance.com/armory/new-gear</link>
-    <description>Η αποθήκη της συμμαχίας ανανεώθηκε. Τα νέα όπλα μεγάλου βεληνεκούς είναι πλέον διαθέσιμα για τους παίκτες επιπέδου 20+.</description>
-    <pubDate>Fri, 02 Jan 2026 20:00:00 +0200</pubDate>
-    <enclosure url="https://athlometalliki.gr/wp-content/uploads/2020/11/3FN_3748.jpg" length="0" type="image/jpeg" />
-    <dc:creator>Quartermaster</dc:creator>
+    <title>Raid Victory: Sector 9 Cleared</title>
+    <link>https://sh4des-alliance.com/reports/sector9-victory</link>
+    <description>Great job to the Bravo squad for clearing the Sector 9 hospital. We have secured vital medical supplies and fuel for the next 7 days. Stay vigilant!</description>
+    <pubDate>Fri, 02 Jan 2026 21:00:00 +0200</pubDate>
+    <enclosure url="https://images.unsplash.com/photo-1628155930542-3c7a64e2c833?q=80&amp;w=1000&amp;auto=format&amp;fit=crop" length="0" type="image/jpeg" />
+    <dc:creator>Squad Leader Alpha</dc:creator>
   </item>
 
 </channel>
