@@ -3,18 +3,26 @@
 <channel>
   <title>Game Alliance Updates</title>
   <link>https://github.com/το-όνομά-σου/το-repo-σου</link>
-  <description>Επίσημη ροή νέων με εικόνες για την Game Alliance</description>
+  <description>Επίσημη ροή νέων της Game Alliance</description>
   <language>el</language>
 
   <item>
-    <title>Έναρξη Μεγάλου Τουρνουά 2026</title>
-    <link>https://gamealliance.gr/tournament</link>
-    <description>Οι εγγραφές ξεκίνησαν! Δείτε την αφίσα του τουρνουά.</description>
-    <pubDate>Sat, 03 Jan 2026 10:00:00 +0200</pubDate>
+    <title>Νέα Παραλαβή Εξοπλισμού Game Alliance</title>
+    <link>https://gamealliance.gr/new-equipment</link>
+    <description>Ο νέος εξοπλισμός της ομάδας έφτασε και είναι έτοιμος για χρήση! Δείτε τις πρώτες φωτογραφίες από τις εγκαταστάσεις μας.</description>
+    <pubDate>Sat, 03 Jan 2026 11:45:00 +0200</pubDate>
     
-    <enclosure url="https://link-to-your-image.jpg" length="0" type="image/jpeg" />
+    <enclosure url="https://athlometalliki.gr/wp-content/uploads/2020/11/3FN_3748.jpg" length="0" type="image/jpeg" />
     
     <dc:creator>Game Alliance Team</dc:creator>
+  </item>
+
+  <item>
+    <title>Προπόνηση Σαββατοκύριακου</title>
+    <link>https://gamealliance.gr/training</link>
+    <description>Προετοιμασία για το επερχόμενο πρωτάθλημα. Οι ώρες προσέλευσης παραμένουν ίδιες.</description>
+    <pubDate>Fri, 02 Jan 2026 15:00:00 +0200</pubDate>
+    <dc:creator>Coach</dc:creator>
   </item>
 
 </channel>
