@@ -3,31 +3,18 @@
 <channel>
   <title>Game Alliance Updates</title>
   <link>https://github.com/το-όνομά-σου/το-repo-σου</link>
-  <description>Επίσημη ροή νέων για τα μέλη της Game Alliance</description>
+  <description>Επίσημη ροή νέων με εικόνες για την Game Alliance</description>
   <language>el</language>
 
   <item>
-    <title>Έναρξη Μεγάλου Τουρνουά Alliance 2026</title>
-    <link>https://gamealliance.gr/tournament-start</link>
-    <description>Οι εγγραφές ξεκίνησαν! Δηλώστε συμμετοχή για το επερχόμενο τουρνουά και διεκδικήστε μεγάλα έπαθλα.</description>
+    <title>Έναρξη Μεγάλου Τουρνουά 2026</title>
+    <link>https://gamealliance.gr/tournament</link>
+    <description>Οι εγγραφές ξεκίνησαν! Δείτε την αφίσα του τουρνουά.</description>
     <pubDate>Sat, 03 Jan 2026 10:00:00 +0200</pubDate>
+    
+    <enclosure url="https://link-to-your-image.jpg" length="0" type="image/jpeg" />
+    
     <dc:creator>Game Alliance Team</dc:creator>
-  </item>
-
-  <item>
-    <title>Νέο Patch Notes: Update v1.2.4</title>
-    <link>https://gamealliance.gr/patch-v124</link>
-    <description>Δείτε όλες τις αλλαγές στο balance των ηρώων και τους νέους χάρτες που προστέθηκαν.</description>
-    <pubDate>Fri, 02 Jan 2026 18:30:00 +0200</pubDate>
-    <dc:creator>Dev Team</dc:creator>
-  </item>
-
-  <item>
-    <title>Συνάντηση Μελών στο Discord</title>
-    <link>https://discord.gg/gamealliance</link>
-    <description>Απόψε στις 21:00 θα γίνει η εβδομαδιαία συνάντηση. Μην λείψει κανείς!</description>
-    <pubDate>Thu, 01 Jan 2026 15:00:00 +0200</pubDate>
-    <dc:creator>Moderator</dc:creator>
   </item>
 
 </channel>
