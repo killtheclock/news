@@ -1,28 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
-  <title>Game Alliance Updates</title>
-  <link>https://github.com/το-όνομά-σου/το-repo-σου</link>
-  <description>Επίσημη ροή νέων της Game Alliance</description>
+  <title>sh4des Alliance - Last Z News</title>
+  <link>https://github.com/sh4des-alliance</link>
+  <description>Επίσημες ενημερώσεις και στρατηγική για την επιβίωση στην Last Z</description>
   <language>el</language>
 
   <item>
-    <title>Νέα Παραλαβή Εξοπλισμού Game Alliance</title>
-    <link>https://gamealliance.gr/new-equipment</link>
-    <description>Ο νέος εξοπλισμός της ομάδας έφτασε και είναι έτοιμος για χρήση! Δείτε τις πρώτες φωτογραφίες από τις εγκαταστάσεις μας.</description>
-    <pubDate>Sat, 03 Jan 2026 11:45:00 +0200</pubDate>
-    
+    <title>Επείγον: Εντοπίστηκε Zombie Horde στα Νότια</title>
+    <link>https://sh4des-alliance.com/alerts/horde-visual</link>
+    <description>Προσοχή σε όλα τα μέλη των sh4des! Μια μεγάλη ορδή κατευθύνεται προς τον τομέα 7. Οχυρώστε τις πύλες σας και ετοιμάστε τα πυρομαχικά.</description>
+    <pubDate>Sat, 03 Jan 2026 11:30:00 +0200</pubDate>
     <enclosure url="https://athlometalliki.gr/wp-content/uploads/2020/11/3FN_3748.jpg" length="0" type="image/jpeg" />
-    
-    <dc:creator>Game Alliance Team</dc:creator>
+    <dc:creator>Commander Shadow</dc:creator>
   </item>
 
   <item>
-    <title>Προπόνηση Σαββατοκύριακου</title>
-    <link>https://gamealliance.gr/training</link>
-    <description>Προετοιμασία για το επερχόμενο πρωτάθλημα. Οι ώρες προσέλευσης παραμένουν ίδιες.</description>
-    <pubDate>Fri, 02 Jan 2026 15:00:00 +0200</pubDate>
-    <dc:creator>Coach</dc:creator>
+    <title>Νέα Στρατηγική Raid: Operation Nightfall</title>
+    <link>https://sh4des-alliance.com/strategy/nightfall</link>
+    <description>Απόψε στις 22:00 ξεκινάμε το συντονισμένο raid για συλλογή πόρων. Παρακαλούνται οι Squad Leaders να βρίσκονται στο Discord 15 λεπτά νωρίτερα.</description>
+    <pubDate>Sat, 03 Jan 2026 09:15:00 +0200</pubDate>
+    <enclosure url="https://athlometalliki.gr/wp-content/uploads/2020/11/3FN_3748.jpg" length="0" type="image/jpeg" />
+    <dc:creator>Strategy Officer</dc:creator>
+  </item>
+
+  <item>
+    <title>Update Εξοπλισμού: Νέα Sniper Rifles διαθέσιμα</title>
+    <link>https://sh4des-alliance.com/armory/new-gear</link>
+    <description>Η αποθήκη της συμμαχίας ανανεώθηκε. Τα νέα όπλα μεγάλου βεληνεκούς είναι πλέον διαθέσιμα για τους παίκτες επιπέδου 20+.</description>
+    <pubDate>Fri, 02 Jan 2026 20:00:00 +0200</pubDate>
+    <enclosure url="https://athlometalliki.gr/wp-content/uploads/2020/11/3FN_3748.jpg" length="0" type="image/jpeg" />
+    <dc:creator>Quartermaster</dc:creator>
   </item>
 
 </channel>
