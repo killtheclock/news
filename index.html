@@ -1,6 +1,27 @@
-<script>
-  const googleScript = "https://script.googleusercontent.com/macros/echo?user_content_key=AehSKLif_YnZp4baM57vjRz9ezq_xlpgZp9MyhKT6xtrzi6IgiG8tr8LUcK-JyblxSUkAU651UQPe_fB3ubpVyo4qIAa-FOrzEeTtQOnlHHBgLndfp-35AXR4Abd0fQFM875kTIJzqPSxnziA8cTF1aeCAfrsU5tLBfskSy4qgZrD72_K1VyDUwA2ZGzLovZY5XHyMTlphEW1fFY8kr-0vgiVcuQLWvb2P_RZKiSD596x-U4VpsX6SNKjh2LtahMt9VOQ2HlAm3XBjNI2o7QXEtfuC7q9WZCkA&lib=M8TK5fX5JpPG7z0LAUZAr0u5P6VriA9Lh";
-  const urlParams = new URLSearchParams(window.location.search);
-  const lang = urlParams.get('lang') || 'en';
-  window.location.href = googleScript + "&lang=" + lang;
-</script>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting...</title>
+  <script>
+    // 1. Παίρνουμε τις παραμέτρους από το URL (π.χ. ?lang=el)
+    const urlParams = new URLSearchParams(window.location.search);
+    const lang = urlParams.get('lang') || 'en';
+    
+    // 2. Το βασικό link του Google Script
+    const baseScript = "https://script.googleusercontent.com/macros/echo?user_content_key=AehSKLif_YnZp4baM57vjRz9ezq_xlpgZp9MyhKT6xtrzi6IgiG8tr8LUcK-JyblxSUkAU651UQPe_fB3ubpVyo4qIAa-FOrzEeTtQOnlHHBgLndfp-35AXR4Abd0fQFM875kTIJzqPSxnziA8cTF1aeCAfrsU5tLBfskSy4qgZrD72_K1VyDUwA2ZGzLovZY5XHyMTlphEW1fFY8kr-0vgiVcuQLWvb2P_RZKiSD596x-U4VpsX6SNKjh2LtahMt9VOQ2HlAm3XBjNI2o7QXEtfuC7q9WZCkA&lib=M8TK5fX5JpPG7z0LAUZAr0u5P6VriA9Lh";
+    
+    // 3. Κατασκευή του τελικού URL
+    const finalUrl = baseScript + "&lang=" + lang;
+    
+    // 4. Εκτέλεση ανακατεύθυνσης
+    window.location.replace(finalUrl);
+  </script>
+</head>
+<body>
+  <p>Redirecting to feed... If it doesn't load, <a id="manual" href="#">click here</a>.</p>
+  <script>
+    document.getElementById('manual').href = finalUrl;
+  </script>
+</body>
+</html>
